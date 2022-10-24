@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hariharan9032
 - 👀 I’m interested in programming  
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Full Stack webdevelopment 
 - 📫 How to reach me Email:nunehariharan9032@gmail.com
 
 <!---
